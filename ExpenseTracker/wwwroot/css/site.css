@@ -349,3 +349,7 @@ img.profile-pic {
     .widget.chart {
         padding: 5px;
     }
+
+    .widget.plus:hover {
+        background-color: #444c54;
+    }
